@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+##!/usr/bin/env bash
 
 ## 本脚本搬运并模仿 liuqitoday
 dir_shell=/ql/config
